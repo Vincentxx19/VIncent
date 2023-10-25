@@ -1,0 +1,17 @@
+h1{
+    color: darkslategray
+    ;font-style: oblique;
+    font-size: xx-large;
+}
+body{color: darkslategray;}
+li{color: darkslategray;}
+li{font-style: oblique;}
+
+body{background-color: moccasin;}
+
+body{border-image-width: 20%;}
+body{margin-left: 10%;}
+body{
+    padding-top: 5%;
+}
+body{font-size: 120%;}
